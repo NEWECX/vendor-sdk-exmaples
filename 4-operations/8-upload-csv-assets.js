@@ -26,6 +26,8 @@ const { set_data_dir, api_upload_all_files, write_to_csv } = require('@samwen/ve
         const fields = ['type', 'status', 'file', 'certificate_lab', 'certificate_number'];
         write_to_csv(local_filepath, report, fields);
 
+        console.log('check ./upload-report.csv for upload report');
+
     } catch (err) {
         console.error(err.message);
     }
