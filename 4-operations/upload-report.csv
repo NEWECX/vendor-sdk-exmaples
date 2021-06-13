@@ -1,0 +1,10 @@
+"type","status","file","certificate_lab","certificate_number"
+"inventory","OK","upload-report.csv",,
+"asset","OK","primary.jpg","IGI","459108837"
+"asset","OK","primary.jpg","GIA","2205729946"
+"asset","OK","plot.jpg","GIA","2205729946"
+"asset","OK","cutprofile.jpg","GIA","2205729946"
+"asset","OK","certificate.pdf","IGI","459108837"
+"asset","OK","certificate.pdf","GIA","2205729946"
+"asset","OK","video.mp4","GIA","2205729946"
+"asset","OK","video.mp4","IGI","459108837"

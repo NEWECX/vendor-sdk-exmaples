@@ -1,0 +1,14 @@
+{
+  "name": "vendor-sdk-examples",
+  "version": "1.0.0",
+  "description": "examples for use vendor sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Wen",
+  "license": "ISC",
+  "dependencies": {
+    "@samwen/vendor-sdk": "^1.1.6"
+  }
+}
